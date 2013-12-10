@@ -3,7 +3,7 @@ RobAFIS-2013
 
 Full code used during the RobAFIS contest of 2013.
 
-[Robos'πR](https://raw.github.com/Alex5160d/RobAFIS-2013/master/pictures/robotspir.jpg)
+![](https://raw.github.com/Alex5160d/RobAFIS-2013/master/pictures/robotspir.jpg)
 
 ### What's it all about?
 
