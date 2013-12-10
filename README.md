@@ -1,9 +1,9 @@
 RobAFIS-2013
 ============
 
-Full code during in the RobAFIS contest of 2013.
+Full code used during the RobAFIS contest of 2013.
 
-[Robos'πR](pictures/robotspir.jpg)
+[Robos'πR](https://raw.github.com/Alex5160d/RobAFIS-2013/pictures/robotspir.jpg)
 
 ### What's it all about?
 
@@ -18,7 +18,7 @@ Among other things, you'll find:
 * A fast line tracker with two light/color sensors
 * Lot of multitasking (usefull in this case)
 * An example of color detection avoiding mistakes
-* A way to use 'hogCPU()'
+* A way to use `hogCPU()`
 * A way to use the file management in Robotc
 * Last but not least, the mario music played by the NXT \o/
 
